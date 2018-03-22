@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">ScrollableTab</string>
+
+    <string name="title_section1">Technology</string>
+    <string name="title_section2">Home</string>
+    <string name="title_section3">Electronics</string>
+
+    <string name="fragment_technology_text">Tech stuff goes here!</string>
+    <string name="fragment_home_text">Home stuff goes here!</string>
+    <string name="fragment_electronics_text">Electronics stuff goes here!</string>
+
+    <string name="title_item1">Mac</string>
+    <string name="store_item1">BestBuy</string>
+    <string name="phone_item1">3312345678</string>
+    <string name="location_item1">location</string>
+    <string name="description_item1">"Llevate esta Mac con un 30% de descuento para que
+ puedas programar para XCode y Android sin tener que batallar tanto como en tu
+ Windows"</string>
+
+    <string name="title_item2">Alienware</string>
+    <string name="store_item2">Dell</string>
+    <string name="phone_item2">33312345678</string>
+    <string name="location_item2">location</string>
+    <string name="description_item2">Lorem ipsum...</string>
+
+    <string name="title_item3">Lanix</string>
+    <string name="store_item3">Saint Jhonny</string>
+    <string name="phone_item3">3333123456</string>
+    <string name="location_item3">location</string>
+    <string name="description_item3">Lorem ipsum...</string>
+
+    <string name="action_logOut">LogOut</string>
+    <string name="action_privacy">Privacy Policy</string>
+    <string name="preferences_file_key">com.iteso.USER_PREFERENCES</string>
+    <string name="url">https://www.iteso.mx</string>
+</resources>
